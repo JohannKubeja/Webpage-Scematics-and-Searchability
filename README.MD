@@ -1,5 +1,6 @@
 Johanns Module 1 Challenge
-*/ This is meant to help further my HTML skills */
+
+<!-- This is meant to help further my HTML skills -->
 
 User Story
 
