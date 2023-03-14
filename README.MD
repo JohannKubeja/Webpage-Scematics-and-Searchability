@@ -41,4 +41,4 @@ Deployed Webpage: https://johannkubeja.github.io/Webpage-Scematics-and-Searchabi
 
 <h1> Screenshot </h1>
 
-image.png
+<img src="Searchability-Screenshot.png">
