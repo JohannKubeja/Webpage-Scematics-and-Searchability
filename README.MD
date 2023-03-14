@@ -35,5 +35,10 @@ WHEN I view the title element
 
 THEN I find a concise, descriptive title
 
-<h1> URL LINKS </h1>
+<h1> URL Links </h1>
 
+Deployed Webpage: https://johannkubeja.github.io/Webpage-Scematics-and-Searchability/
+
+<h1> Screenshot </h1>
+
+image.png
